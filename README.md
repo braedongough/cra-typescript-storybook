@@ -18,8 +18,8 @@ module.exports = {
 
 ### Docs to reference
 
-[Developing Components in Isolation - create-react-app.dev](https://create-react-app.dev/docs/developing-components-in-isolation)
+- [Developing Components in Isolation - create-react-app.dev](https://create-react-app.dev/docs/developing-components-in-isolation)
 
-[TypeScript Config - storybook.js.org](https://storybook.js.org/docs/configurations/typescript-config/)
+- [TypeScript Config - storybook.js.org](https://storybook.js.org/docs/configurations/typescript-config/)
 
-[Writing Stories - storybook.js.org](https://storybook.js.org/docs/basics/writing-stories/)
+- [Writing Stories - storybook.js.org](https://storybook.js.org/docs/basics/writing-stories/)
